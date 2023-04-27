@@ -20,7 +20,7 @@
 .Paragraph {
     text-align:center;
     font-style:italic;
-    font-size: medium;
+    font-size:large;
 }
 a {
     text-decoration: none;
@@ -28,7 +28,7 @@ a {
     text-align: none;
 }
 a:hover {
-    color: blue;
+    color: rgb(230, 100, 79);
     
 }
 .Video {
@@ -36,8 +36,8 @@ a:hover {
     width:800px;
     margin:0 auto;
 }
-li {
-    font-size:medium;
+.Planets{
+    font-size:large;
 }
 
             
