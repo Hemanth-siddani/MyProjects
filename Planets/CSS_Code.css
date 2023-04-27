@@ -38,8 +38,8 @@ a:hover {
     width:800px;
     margin:0 auto;
 }
-li p{
-    font-size:xx-large !important;
+a li{
+    font-size:medium;
     
 }
 .dec
