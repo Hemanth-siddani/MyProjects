@@ -38,8 +38,9 @@ a:hover {
     width:800px;
     margin:0 auto;
 }
-li .Planets{
-    font-size:x-large ;
+li p{
+    font-size:large !important;
+    
 }
 .dec
 {
