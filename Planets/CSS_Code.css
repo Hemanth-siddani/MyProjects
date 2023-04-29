@@ -1,9 +1,9 @@
 .Body {
     margin:30px;
-    color: black;
+    color: #000000;
     font-family:serif;
     font-style:italic;
-    background-image: linear-gradient(yellow,aqua);
+    background-image: linear-gradient(aqua,yellow);
     background-repeat: no-repeat;
     height:cover;
 }
@@ -13,6 +13,8 @@
     font-size:80px;
     font-weight:bold;
     font-style:italic;
+    color: #ffffff;
+    text-shadow:5px 5px #000000;
 }
 .Image {
     display:block;
