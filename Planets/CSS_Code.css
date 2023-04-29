@@ -21,9 +21,10 @@
     border:4px solid black;
 }
 .Paragraph {
-    text-align:center;
+    text-align:justify;
     font-style:italic;
     font-size:medium;
+
 }
 a {
     text-decoration: none;
